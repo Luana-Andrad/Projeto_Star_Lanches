@@ -1,4 +1,12 @@
-# Equipe
+# 🍔 Star Lanches - Sistema de Gerenciamento de Pedidos
+
+Sistema desenvolvido para auxiliar no gerenciamento e organização dos pedidos da **Star Lanches**, uma lanchonete que busca otimizar seus processos internos e facilitar o atendimento aos clientes.
+
+## 📋 Sobre o Projeto
+
+O principal objetivo deste projeto é oferecer uma solução digital que permita **registrar e organizar os pedidos** de forma eficiente, reduzindo erros no atendimento e agilizando o fluxo de trabalho da lanchonete.
+
+## 👥 Equipe
 
 | RA | Integrante | GitHub |
 | :--- | :--- | :--- |
