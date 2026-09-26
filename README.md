@@ -18,6 +18,6 @@ O principal objetivo deste projeto é oferecer uma solução digital que permita
 | `3024107159` | Lucas Gomes Barboza | [@oLucasGBo](https://github.com/oLucasGBo) |
 | `3024106574` | Renan Abeu Cerqueira de Lima | [@RenanAbreuC](https://github.com/RenanAbreuC) |
 
-## Diagrama:
+## Diagrama
 
 <img width="767" height="596" alt="image" src="https://github.com/user-attachments/assets/245226ae-636f-4ab6-9ec7-0b061cfbd334" />
