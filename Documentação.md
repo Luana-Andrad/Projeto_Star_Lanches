@@ -1,0 +1,2 @@
+# Sobre o Projeto
+Sistema desenvolvido em Java para registrar e organizar pedidos de uma lanchonete, facilitando o controle de mesas, clientes, pratos e comandas. Os arquivos estão separados em classes que representam o modelo do sistema, conforme o diagrama: Cliente, Mesa, Cardapio, Prato, Pedido, ItemPedido e Comanda. O sistema cadastra pratos, cria pedidos com itens e quantidades, associa a comanda a uma mesa e calcula o total da conta, permitindo também controlar o status da mesa e diferentes tipos de cliente.
