@@ -1,10 +1,6 @@
 # Star Lanches
 
-Sistema desenvolvido para auxiliar no gerenciamento e organização dos pedidos da **Star Lanches**, uma lanchonete que busca otimizar seus processos internos e facilitar o atendimento aos clientes.
-
-## Objetivo
-
-O principal objetivo deste projeto é oferecer uma solução digital que permita **registrar e organizar os pedidos** de forma eficiente, reduzindo erros no atendimento e agilizando o fluxo de trabalho da lanchonete.
+Sistema desenvolvido em Java para registrar e organizar pedidos de uma lanchonete, facilitando o controle de mesas, clientes, pratos e comandas. Os arquivos estão separados em classes que representam o modelo do sistema, conforme o diagrama: Cliente, Mesa, Cardapio, Prato, Pedido, ItemPedido e Comanda. O sistema cadastra pratos, cria pedidos com itens e quantidades, associa a comanda a uma mesa e calcula o total da conta, permitindo também controlar o status da mesa e diferentes tipos de cliente.
 
 ## Equipe
 
